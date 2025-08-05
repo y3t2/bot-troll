@@ -18,8 +18,8 @@ Un bot Discord en JavaScript avec des commandes fun et des fonctionnalités avan
 
 1. Clone le dépôt :
     ```bash
-    git clone https://github.com/TON-NOM-D-UTILISATEUR/TON-REPO.git
-    cd TON-REPO
+    git clone https://github.com/y3t2/bot-troll.git
+    cd bot-troll
     ```
 
 2. Installe les dépendances :
