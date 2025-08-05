@@ -3,7 +3,7 @@
 Un bot Discord en JavaScript avec des commandes fun et des fonctionnalités avancées de "lock pseudo" pour empêcher les membres de changer leur pseudo.
 
 ## ✨ Fonctions disponibles :
-- `+uwu` → Te traite d'eGirl ou d'eBoy
+- `+uwu` → Te traite d'E-Girl ou d'E-BBoy
 - `+hack @user` → Fait semblant de hacker quelqu'un
 - `+lockpseudo @user` → Verrouille le pseudo d'un membre (seulement pour les rôles autorisés)
 - `+unlockpseudo @user` → Déverrouille le pseudo d'un membre (seulement pour les rôles autorisés)
