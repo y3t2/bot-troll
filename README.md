@@ -58,3 +58,5 @@ node index.js
 
 ## 📜 Licence
 Ce projet est open-source sous licence MIT.
+
+<img width="364" height="373" alt="image" src="https://github.com/user-attachments/assets/12482019-65c9-48d4-8eaf-e7681af7b413" /> 
